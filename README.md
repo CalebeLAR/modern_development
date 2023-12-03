@@ -2,4 +2,7 @@
 - **Of JavaScript Runtimes and Building (Mostly) Servers**  
 - **First Baby Steps with Node: Installation**  
 - **More Useful: Executing JavaScript Source Files**  
-
+- **Node’s Partner in Crime: NPM**  
+- **A Few More NPM Commands**  
+- **Initializing a New NPM/Node Project**  
+- ****
