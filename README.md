@@ -5,4 +5,5 @@
 - **Node’s Partner in Crime: NPM**  
 - **A Few More NPM Commands**  
 - **Initializing a New NPM/Node Project**  
-- ****
+- **Adding Dependencies**  
+- **A Quick Aside: Semantic Versioning**
